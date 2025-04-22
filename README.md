@@ -61,6 +61,8 @@ Contributions must maintain GPL-3.0 compliance.
 instructions
 ![Screenshot 2025-04-23 000023](https://github.com/user-attachments/assets/eeefd3e7-e0ca-4a65-8332-1288ec077e07)
 ![Screenshot 2025-04-23 000214](https://github.com/user-attachments/assets/059b7509-ac95-4242-8ceb-db1e40082986)
+![image](https://github.com/user-attachments/assets/4a631ac5-3282-4855-9732-2d5c17d478fc)
+
 ![Screenshot 2025-04-23 002507](https://github.com/user-attachments/assets/b3937a58-ebf3-4e57-b931-db0fef95d7be)
 ![Screenshot 2025-04-23 002632](https://github.com/user-attachments/assets/066efc60-ed9d-40c4-86f4-c7c027664054)
 ![Screenshot 2025-04-23 002655](https://github.com/user-attachments/assets/9a452c07-16c4-4357-8a72-5bd6a14187c1)
